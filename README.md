@@ -20,7 +20,9 @@ NPC Police replacement
    * Bounties can be marked as payable or not (Fines only, time has to be served)
 * Bounties are now paied off per bounty. So as a player serves their times are able to be marked off with a bounty.
    * Bounties are served based on order of offense. Escapes are the last bounty to be served and are always marked as non-payable
-
+* Bounties will be able to be flagged for expiration. This will allow you to set a general limit (Real world time) on a bounty and it will go away at a specific time. 
+   * I am thinking about a future heat based system that will hold all bounties in place until you are hidden from the police for a while. This would be an addon however.
+   
 ### Jails
 * You will no longer be required to have a jail on each world, or server (Bungeecord networks). You can have a single jail on a server/network now. Jails are found in order based on Town > World > Server > Network (Bungee)   
   * Bungeecord networks will have to assign the server to utilize if you have more than 1 jail on the network.
