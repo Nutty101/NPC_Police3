@@ -3,7 +3,7 @@ NPC Police replacement
 
 #Upgrade
 * At this time there may not be a direct upgrade path for settings. I will more than likely make a system to help migrate some player information, but due to the major changes I do not forsee a direct upgrade path at this time.
-* For this reason, I will maintain the plugin for a couple major MC versions in the future.
+* For this reason, I will maintain the old police plugin for a couple major MC versions in the future.
 
 #Major changes:   
 
