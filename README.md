@@ -1,11 +1,11 @@
 # Police3
 NPC Police replacement
 
-#Upgrade
+# Upgrade
 * At this time there may not be a direct upgrade path for settings. I will more than likely make a system to help migrate some player information, but due to the major changes I do not forsee a direct upgrade path at this time.
 * For this reason, I will maintain the old police plugin for a couple major MC versions in the future.
 
-#Major changes:   
+# Major changes:   
 
 ## Guards
 * Guards are no longer limited to NPC's (Though the plugin by default only has NPC guards and cameras [future]).
