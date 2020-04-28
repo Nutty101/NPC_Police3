@@ -22,8 +22,8 @@ NPC Police replacement
    * Bounties are served based on order of offense. Escapes are the last bounty to be served and are always marked as non-payable
 
 ### Jails
-* You will no longer be required to have a jail on each world, or server (Bungeecord networks). You can have a single jail on a server/network now. Jails are found in order based on Town > World > Server > Network (Bungee)
-  ** Bungeecord networks will have to assign the server to utilize if you have more than 1 jail on the network.
+* You will no longer be required to have a jail on each world, or server (Bungeecord networks). You can have a single jail on a server/network now. Jails are found in order based on Town > World > Server > Network (Bungee)   
+  * Bungeecord networks will have to assign the server to utilize if you have more than 1 jail on the network.
 
 ### Zones
 * The plugin now supports zones. see [Zones](https://github.com/Nutty101/The_Fuzz/wiki/Zones) for more information.
