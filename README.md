@@ -43,3 +43,8 @@ NPC Police replacement
 ### Ability to monitor assaults on more than NPCs
 * Attack monitors many things now (Players, Villagers,[Passive Mobs](https://minecraft.gamepedia.com/Category:Passive_mobs) and [Neutral Mobs](https://minecraft.gamepedia.com/Category:Neutral_mobs), and NPCs)
 
+### Storage and Settings
+* Bungeecord
+    * When enabled, the bungeecord server will be the primary configuration repo for all servers. Zones are stored on that server and passed down to all connected servers running the plugin.
+    * This enables the ability for consistant tracking of assaults and zone settings. see [Zones](https://github.com/Nutty101/The_Fuzz/wiki/Zones) for more information.
+    
