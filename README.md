@@ -28,7 +28,7 @@ NPC Police replacement
   * Bungeecord networks will have to assign the server to utilize if you have more than 1 jail on the network.
 
 ### Zones
-* The plugin now supports zones. see [Zones](https://github.com/Nutty101/The_Fuzz/wiki/Zones) for more information.
+* The plugin now supports zones. see [Zones](https://github.com/Nutty101/The_Fuzz/wiki/AboutZones) for more information.
 
 ### Worldguard Regions
 * Regions are no longer able to flag a user with a wanted status. There may be an alternate to this, but at the time of this document the only planned items are security cameras
